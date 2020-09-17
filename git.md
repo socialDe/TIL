@@ -104,6 +104,13 @@ $git remote add origin {URL}
 
 * 비조뒤일앞(비동사조동사뒤 일반동사앞)
 * 깃아,원격(remote) 저장소로 추가해줘(add) origin이라는 이름으로 URL을
+* 원격 저장소 삭제하기 위해서는 아래의 명령어를 사용한다.
+
+```bash
+$git remote rm origin 
+```
+
+
 
 ### 2. 원격 저장소 확인하기
 
