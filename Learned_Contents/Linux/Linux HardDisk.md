@@ -44,13 +44,13 @@
 
 > VMware에서 왼쪽 하단 Add-하드디스크 선택
 
-![image-20200921092258190](C:%5CUsers%5Cuser%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200921092258190.png)
+![image-20200921092258190](md-images/image-20200921092258190-1600679893784.png)
 
 
 
 > SCSI 체크로 설정 진행
 
-![image-20200921092319319](C:%5CUsers%5Cuser%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200921092319319.png)
+![image-20200921092319319](md-images/image-20200921092319319-1600679896458.png)
 
 
 
@@ -154,7 +154,7 @@ Syncing disks.
 # mount /dev/sdb1 /mydata
 ```
 
-![image-20200921094429692](C:%5CUsers%5Cuser%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200921094429692.png)
+![image-20200921094429692](md-images/image-20200921094429692.png)
 
 > /mydata 디렉토리에 새로운 파일이 생성되면 sdb1에 파일이 저장되고, 이후 마운트를 해제하면 mydata 디렉토리에서 파일이 사라지고 sdb1에 저장되어 있다.
 
@@ -468,7 +468,7 @@ $vi /etc/fstab
 
 > 결과
 
-![image-20200921143242421](C:%5CUsers%5Cuser%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200921143242421.png)
+![image-20200921143242421](md-images/image-20200921143242421.png)
 
 결과적으로 새로 생성된 RAID Linear에는 기존 testFile이 존재하지 않고, RAID1에는 testFile이 정상적으로 남아있는 것을 확인 할 수 있다.
 
