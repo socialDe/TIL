@@ -6,7 +6,7 @@
 
 ### 0. IDE와 SCSI
 
-![ide장치와scsi장치구성](C:%5CUsers%5Cuser%5CDesktop%5Cide%EC%9E%A5%EC%B9%98%EC%99%80scsi%EC%9E%A5%EC%B9%98%EA%B5%AC%EC%84%B1.jpg)
+![ide장치와scsi장치구성](md-images/ide%EC%9E%A5%EC%B9%98%EC%99%80scsi%EC%9E%A5%EC%B9%98%EA%B5%AC%EC%84%B1.jpg)
 
 출처 : https://jerrystyle.tistory.com/46
 
@@ -56,13 +56,13 @@
 
 > HardDisk 추가 완료
 
-![image-20200921092436465](C:%5CUsers%5Cuser%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200921092436465.png)
+![image-20200921092436465](md-images/image-20200921092436465.png)
 
 
 
 > /dev/ 디렉토리 내 디스크 탐색(ls -l /dev/sd*)
 
-![image-20200921093138130](C:%5CUsers%5Cuser%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200921093138130.png)
+![image-20200921093138130](md-images/image-20200921093138130.png)
 
 
 
@@ -186,7 +186,7 @@ $ vi /etc/fstab
 
 ### 1. 하드웨어 RAID
 
-![새빛마이크로, 고품격 고성능의 5단 하드웨어 RAID시스템 DataMore PentaRAID Pro 출시 | 케이벤치](https://images.kbench.com/kbench/article/2010_01/k79622p1n2.jpg)
+![새빛마이크로, 고품격 고성능의 5단 하드웨어 RAID시스템 DataMore PentaRAID Pro 출시 | 케이벤치](md-images/k79622p1n2.jpg)
 
 > 하드웨어 RAID는 여러 개의 하드디스크를 연결한 장비를 만들어 그 자체를 공급하는 것이다. 하드웨어 RAID는 좀 더 안정적이고 각 제조업체에서 기술 지원을 받을 수 있기에 많이 선호하는 방법이다.
 
@@ -200,7 +200,11 @@ $ vi /etc/fstab
 
 ### 3. RAID 레벨
 
-![레이드방식](C:%5CUsers%5Cuser%5CDesktop%5C%EB%A0%88%EC%9D%B4%EB%93%9C%EB%B0%A9%EC%8B%9D.jpg)
+![레이드방식](md-images/%EB%A0%88%EC%9D%B4%EB%93%9C%EB%B0%A9%EC%8B%9D.jpg)
+
+출처: https://jerrystyle.tistory.com/56
+
+
 
 #### Linear RAID와 RAID 0
 
