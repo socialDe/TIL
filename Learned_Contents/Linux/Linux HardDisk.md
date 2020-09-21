@@ -91,7 +91,7 @@
 > Command: w	-> 설정 저장
 
 ```bash
-$ fdisk /dev/sdb
+$fdisk /dev/sdb
 Welcome to fdisk (util-linux 2.23.2).
 
 Changes will remain in memory only, until you decide to write them.
@@ -142,16 +142,16 @@ Syncing disks.
 ### 2. 생성한 하드디스크 포멧
 
 ```bash
-# mkfs.ext4 /dev/sdb1
+$mkfs.ext4 /dev/sdb1
  
 ```
 
 ```bash
-# mkdir /mydata
-# cd /mydata
-# touch mydata.txt
-# cd
-# mount /dev/sdb1 /mydata
+$mkdir /mydata
+$cd /mydata
+$touch mydata.txt
+$cd
+$mount /dev/sdb1 /mydata
 ```
 
 ![image-20200921094429692](md-images/image-20200921094429692.png)
@@ -163,7 +163,7 @@ Syncing disks.
 ### 3. 마운트 해제
 
 ```bash
-# umount /dev/sdb1
+$umount /dev/sdb1
 ```
 
 > 기존 마운트 상태를 해제하고 싶다면 umount 커맨드를 사용한다.
