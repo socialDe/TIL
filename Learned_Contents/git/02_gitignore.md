@@ -17,3 +17,18 @@ tests/				#특정 폴더
   * Ex) `mac` `java-web` `eclipse` 
 
   
+
+## 2020.09.25 추가
+
+* 이미 추적 중인 파일 중 .gitignore를 반영하고 싶을 때
+
+```bash
+# cache 삭제
+$ git rm -r --cached .
+# 다시 추가 -> gitignore를 다시 반영하게 됌
+$ git add .
+
+$ git commit -m "Apply .gitignore"
+$ git push
+```
+
