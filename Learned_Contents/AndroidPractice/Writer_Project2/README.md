@@ -4,7 +4,7 @@
 
 ## 2. 시스템 구성도
 
-![image-20201023230336247](../$md-images/image-20201023230336247.png)
+![image-20201023230336247]($md-images/image-20201023230336247.png)
 
 <br><br>
 
@@ -44,19 +44,19 @@ Java 8, Android Studio 4.0.2, Apache Tomcat 9, Eclipse, JSP, FCM
 
 ### 1) 로그인 기능
 
-![image-20201023231046476](../$md-images/image-20201023231046476.png)
+![image-20201023231046476]($md-images/image-20201023231046476.png)
 
 **로그인 화면**
 
 <br><br>
 
-![image-20201023231116907](../$md-images/image-20201023231116907.png)
+![image-20201023231116907]($md-images/image-20201023231116907.png)
 
 **로그인 로딩 ProgressDialog**
 
 <br><br>
 
-![image-20201023231232046](../$md-images/image-20201023231232046.png)
+![image-20201023231232046]($md-images/image-20201023231232046.png)
 
 **로그인 실패 AlertDialog**
 
