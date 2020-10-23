@@ -120,7 +120,7 @@ out.print(titles[index]);
 
 <br><br>
 
-**![image-20201023232219241](md-images/image-20201023232219241.png)**
+**![image-20201023232219241]($md-images/image-20201023232219241.png)**
 
 **글읽기 탭 화면(데이터베이스 연동 학습 후 구현)**
 
