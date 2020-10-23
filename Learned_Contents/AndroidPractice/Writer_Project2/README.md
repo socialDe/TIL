@@ -4,7 +4,7 @@
 
 ## 2. 시스템 구성도
 
-![스크린샷 2020-10-23 오후 11.05.31](/Users/jaeuk/Library/Application%20Support/typora-user-images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-10-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.05.31.png)
+![image-20201023230336247](../$md-images/image-20201023230336247.png)
 
 <br><br>
 
@@ -44,19 +44,19 @@ Java 8, Android Studio 4.0.2, Apache Tomcat 9, Eclipse, JSP, FCM
 
 ### 1) 로그인 기능
 
-![image-20201023231218142](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023231218142.png)
+![image-20201023231046476](../$md-images/image-20201023231046476.png)
 
 **로그인 화면**
 
 <br><br>
 
-![image-20201023231226185](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023231226185.png)
+![image-20201023231116907](../$md-images/image-20201023231116907.png)
 
 **로그인 로딩 ProgressDialog**
 
 <br><br>
 
-![image-20201023231232046](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023231232046.png)
+![image-20201023231232046](../$md-images/image-20201023231232046.png)
 
 **로그인 실패 AlertDialog**
 
@@ -66,7 +66,7 @@ Java 8, Android Studio 4.0.2, Apache Tomcat 9, Eclipse, JSP, FCM
 
 ### 2) 글쓰기 기능
 
-![image-20201023231833114](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023231833114.png)
+![image-20201023231833114]($md-images/image-20201023231833114-3464870.png)
 
 **제시어 표시 및 글쓰기 탭 화면**
 
@@ -74,9 +74,9 @@ Java 8, Android Studio 4.0.2, Apache Tomcat 9, Eclipse, JSP, FCM
 
 
 
-![image-20201023231855446](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023231855446.png)
 
 
+![image-20201023231855446]($md-images/image-20201023231855446.png)
 
 **글 작성 화면**
 
@@ -84,7 +84,7 @@ Java 8, Android Studio 4.0.2, Apache Tomcat 9, Eclipse, JSP, FCM
 
 
 
-![image-20201023231933044](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023231933044.png)
+![image-20201023231933044]($md-images/image-20201023231933044.png)
 
 
 
@@ -94,9 +94,7 @@ Java 8, Android Studio 4.0.2, Apache Tomcat 9, Eclipse, JSP, FCM
 
 
 
-![image-20201023231959223](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023231959223.png)
-
-
+![image-20201023231959223]($md-images/image-20201023231959223.png)
 
 **글 저장 확인 Toast**
 
@@ -122,23 +120,17 @@ out.print(titles[index]);
 
 <br><br>
 
-
-
-![image-20201023232219241](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023232219241.png)
+**![image-20201023232219241](md-images/image-20201023232219241.png)**
 
 **글읽기 탭 화면(데이터베이스 연동 학습 후 구현)**
 
 <br><br><br>
 
-
-
-
-
 ### 3) FCM 푸시 수신 기능
 
 
 
-![image-20201023232234384](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023232234384.png)
+**![image-20201023232234384]($md-images/image-20201023232234384.png)**
 
 **FCM 푸시 수신 화면**
 
@@ -244,19 +236,13 @@ public class FTest extends HttpServlet {
 
 ### 4) 데이터 연결 상태 알림 기능
 
-
-
-
-
-![image-20201023232409447](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023232409447.png)
-
-
+![image-20201023232409447]($md-images/image-20201023232409447.png)
 
 **데이터 연결 상태 알림 Toast 화면(셀룰러)**
 
 <br><br>
 
-![image-20201023232419412](/Users/jaeuk/Library/Application%20Support/typora-user-images/image-20201023232419412.png)
+![image-20201023232419412]($md-images/image-20201023232419412-3465004.png)
 
 **데이터 연결 상태 알림 Toast 화면(Wifi)**
 
