@@ -91,3 +91,23 @@
 
 
 
+<br/>
+
+### 📕 Android
+
+|    Date     |                           Contents                           |
+| :---------: | :----------------------------------------------------------: |
+| 업로드 예정 |                         업로드 예정                          |
+| 2020-10-23  | [Android 실습 - 글 쓰기, 공유 애플리케이션(쓰다)](https://github.com/socialDe/TIL/tree/master/Learned_Contents/AndroidPractice/Writer_Project2) |
+
+
+
+<br/>
+
+### 📕 Network
+
+|    Date     |                           Contents                           |
+| :---------: | :----------------------------------------------------------: |
+| 업로드 예정 |                         업로드 예정                          |
+| 2020-10-27  | [HTTP, TCP/IP 기초 네트워크 구현 실습- 메시지 송수신, 파일 수신](https://github.com/socialDe/TIL/tree/master/Learned_Contents/Network/day02) |
+|             |                                                              |
