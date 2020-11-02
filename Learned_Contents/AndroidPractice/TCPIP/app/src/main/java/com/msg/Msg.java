@@ -35,6 +35,7 @@ public class Msg implements Serializable{
 	}
 	public Msg() {
 	}
+	
 	public HashMap<String, Msg> getMaps() {
 		return maps;
 	}

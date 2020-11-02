@@ -133,10 +133,7 @@ public class Server {
       public void setMsg(Msg msg) {
          this.msg = msg;
       }
-      /**
-     *
-     */
-    @Override
+      @Override
       public void run() {
          Collection<ObjectOutputStream> cols =
                maps.values();
