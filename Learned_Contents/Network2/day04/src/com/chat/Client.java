@@ -48,7 +48,7 @@ public class Client {
 		while(true) {
 			System.out.println("Input msg");
 			String ms = sc.nextLine();
-			Msg msg = new Msg("",id,ms);
+			Msg msg = new Msg("/192.168.0.61",id,ms);
 			sender.setMsg(msg);
 			new Thread(sender).start();
 			if(ms.equals("q")) {
